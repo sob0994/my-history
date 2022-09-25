@@ -1,0 +1,47 @@
+:root {
+    /* CSS HEX */
+    --cerulean-crayola: #25aae2ff;
+    --paradise-pink: #ef476fff;
+    --orange-yellow-crayola: #ffd166ff;
+    --caribbean-green: #06d6a0ff;
+    --midnight-green-eagle-green: #073b4cff;
+
+    /* CSS HSL */
+    --cerulean-crayola: hsla(198, 77%, 52%, 1);
+    --paradise-pink: hsla(346, 84%, 61%, 1);
+    --orange-yellow-crayola: hsla(42, 100%, 70%, 1);
+    --caribbean-green: hsla(164, 95%, 43%, 1);
+    --midnight-green-eagle-green: hsla(195, 83%, 16%, 1);
+}
+
+/* SCSS HEX */
+$cerulean-crayola: #25aae2ff;
+$paradise-pink: #ef476fff;
+$orange-yellow-crayola: #ffd166ff;
+$caribbean-green: #06d6a0ff;
+$midnight-green-eagle-green: #073b4cff;
+
+/* SCSS HSL */
+$cerulean-crayola: hsla(198, 77%, 52%, 1);
+$paradise-pink: hsla(346, 84%, 61%, 1);
+$orange-yellow-crayola: hsla(42, 100%, 70%, 1);
+$caribbean-green: hsla(164, 95%, 43%, 1);
+$midnight-green-eagle-green: hsla(195, 83%, 16%, 1);
+
+/* SCSS RGB */
+$cerulean-crayola: rgba(37, 170, 226, 1);
+$paradise-pink: rgba(239, 71, 111, 1);
+$orange-yellow-crayola: rgba(255, 209, 102, 1);
+$caribbean-green: rgba(6, 214, 160, 1);
+$midnight-green-eagle-green: rgba(7, 59, 76, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-right: linear-gradient(90deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-bottom: linear-gradient(180deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-left: linear-gradient(270deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-top-right: linear-gradient(45deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-bottom-right: linear-gradient(135deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-top-left: linear-gradient(225deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-bottom-left: linear-gradient(315deg, #25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
+$gradient-radial: radial-gradient(#25aae2ff, #ef476fff, #ffd166ff, #06d6a0ff, #073b4cff);
